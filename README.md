@@ -1,6 +1,6 @@
 ## Study Plan to Learn AngularJS
 
-## which one to choose [AngularJS vs ReactJS](https://www.codementor.io/codementorteam/tutorials/react-vs-angular-2-comparison-beginners-guide-lvz5710ha)?
+### Which one to choose [AngularJS vs ReactJS](https://www.codementor.io/codementorteam/tutorials/react-vs-angular-2-comparison-beginners-guide-lvz5710ha)?
 
 Let's begin with AngularJS I will make up my mind ^_^
 
