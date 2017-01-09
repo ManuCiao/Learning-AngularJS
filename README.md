@@ -14,6 +14,7 @@ Let's begin with AngularJS I will make up my mind ^_^
 - CodeSchool --> http://campus.codeschool.com/courses/shaping-up-with-angular-js/
 - Hacks --> https://hackr.io/tutorials/learn-angular-js
 - Thinkster --> https://thinkster.io/a-better-way-to-learn-angularjs
+- Thinkster --> https://thinkster.io/tutorials/mean-stack
 - Learn Angular --> http://www.learn-angular.org/#!/lessons/the-essentials
 - CodeAcademy --> https://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1
 - Egghead.io --> https://egghead.io/courses/angular-2-fundamentals
